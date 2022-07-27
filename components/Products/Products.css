@@ -1,0 +1,62 @@
+.products-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 45px;
+    width: 80%;
+    max-width: 1200px;
+    margin: var( --spacing-large) auto;
+    padding-inline-start: 0;
+}
+.products-element{
+    gap: 10px 0;
+    padding: 25px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    border-radius: 20px;
+    background: #8FD5EC;
+    box-shadow:  23px 23px 46px #7ab5c9,
+                -23px -23px 46px #a4f5ff;
+}
+.products-element__name{
+    font-size: 26px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    margin-bottom: auto;
+}
+.products-element__img{
+    width: 100%;
+    height: 270px;
+    object-fit: contain;
+}
+.products-element__price{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Poppins';
+}
+
+.products-element__addbtn{
+    padding: 5px 4px ;
+    font-size: 14px;
+    font-family: 'Poppins';
+    font-weight: 500;
+    border: none;
+    border-radius: 7px;
+    background: #8FD5EC;
+    box-shadow:  4px 4px 8px #7ab5c9,
+                -4px -4px 8px #a4f5ff;
+    transition: .2s;
+    cursor: pointer;
+}
+.products-element__addbtn_active{
+    background: #8FD5EC;
+    box-shadow: inset 5px 5px 10px #7bb7cb,
+                inset -5px -5px 10px #a3f3ff;
+}
+
+.products-element__addbtn:hover{
+    color: #FFFFFF;
+    background: linear-gradient(145deg, #81c0d4, #99e4fd);
+box-shadow:  6px 6px 11px #7ab5c9,
+             -6px -6px 11px #a4f5ff;
+}

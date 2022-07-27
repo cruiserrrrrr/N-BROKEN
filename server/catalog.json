@@ -1,0 +1,81 @@
+ [
+    {
+        "id": "el1",
+        "name": "Hoodie PRSW0379",
+        "img": "https://thumb.tildacdn.com/tild3631-3464-4061-b966-363263663365/-/resize/978x/-/format/webp/IMG_3870.JPG",
+        "price": 5600
+    },
+    {
+        "id": "el2",
+        "name": "Sweatshirt Prsw0293",
+        "img": "https://thumb.tildacdn.com/tild6236-3834-4463-a330-353235313837/-/format/webp/10128288470_13703633.jpg",
+        "price": 3800
+    },
+    {
+        "id": "el3",
+        "name": "T-shirt Prsw0504",
+        "img": "https://thumb.tildacdn.com/tild6266-3935-4230-b263-633839386439/-/format/webp/2be1dde2.jpg",
+        "price": 4500
+    },
+    {
+        "id": "el4",
+        "name": "Hoodie PRSW0191",
+        "img": "https://thumb.tildacdn.com/tild3533-3835-4961-b234-313130666564/-/format/webp/O1CN01jnYEqh2JM06sJO.jpg",
+        "price": 3200
+    },
+    {
+        "id": "el5",
+        "name": "Hoodie GRCH ALL CASH",
+        "img": "https://21-shop.ru/upload/resize/210/210159732/2000x2000x90/tolstovka-grch-all-cash-chernyy.jpg",
+        "price": 6400
+    },
+    {
+        "id": "el6",
+        "name": "Hoodie MISTER TEE BOOM HOODY BLACK",
+        "img": "https://21-shop.ru/upload/resize/205/205739743/2000x2000x90/tolstovka-mister-tee-boom-hoody-black.jpg",
+        "price": 2800
+    },
+    {
+        "id":"el7",
+        "name": "Hoodie Prsw0211",
+        "img": "https://thumb.tildacdn.com/tild3537-6634-4964-a238-383035333239/-/resize/734x/-/format/webp/O1CN01po78oB2JM01xkm.jpg",
+        "price": 7200
+    },
+    {
+        "id": "el8",
+        "name": "Sweatshirt PRSW0139",
+        "img": "https://thumb.tildacdn.com/tild6238-6163-4365-b363-633532646665/-/resize/720x/-/format/webp/3ad60f181hc0bf2e9d30.jpeg",
+        "price": 5500
+    },
+    {
+        "id": "el9",
+        "name": "Sweatshirt PRSW0367",
+        "img": "https://thumb.tildacdn.com/tild3831-3633-4666-a139-386237373938/-/format/webp/367_2.jpg",
+        "price": 2900
+    },
+    {
+        "id": "el10",
+        "name": "Hoodie PRSW0332",
+        "img": "https://thumb.tildacdn.com/tild3333-3736-4237-b238-613536623238/-/format/webp/60439634.jpg",
+        "price": 5000
+    },
+    {
+        "id": "el11",
+        "name": "Hoodie PRSW0369",
+        "img": "https://thumb.tildacdn.com/tild6263-3462-4331-b163-633034613161/-/resize/750x/-/format/webp/O1CN01SVgK2v2JM00JH6.jpg",
+        "price": 3600
+    },
+    {
+        "id": "el12",
+        "name": "Sweatshirt Prsw0349",
+        "img":" https://thumb.tildacdn.com/tild3165-6162-4230-b631-373438666263/-/format/webp/O1CN012KEbLx1OeqIiJE.jpg",
+        "price": 4200
+    },
+    {
+        "id": "el13",
+        "name": "Sweatshirt PRSW0342",
+        "img": "https://thumb.tildacdn.com/tild6439-6230-4731-b165-373939306433/-/format/webp/0a4df95b.jpg",
+        "price": 2900
+    }
+
+]
